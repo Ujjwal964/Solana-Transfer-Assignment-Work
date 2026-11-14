@@ -1,0 +1,11 @@
+{
+  "generator": "sol-transactions",
+  "state": {
+    "name": "solanatransferextractor",
+    "chainName": "solana-mainnet-beta",
+    "substreamsSinkChoice": "source_only",
+    "initialBlock": 385870151,
+    "initialBlockSet": true,
+    "filter": "program:"
+  }
+}
